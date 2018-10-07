@@ -71,7 +71,7 @@
 		<div class="ui two column grid center aligned container marg-work">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="#">
+					<a href="https://www.turnkey-lender.com/" target="_blank">
 						<img src="img/tkl-logo-2.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
@@ -141,7 +141,7 @@
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="#">
+					<a href="https://svitla.com/" target="_blank">
 						<img src="img/svitla-logo.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
@@ -209,7 +209,7 @@
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="#">
+					<a href="http://epicall.com.ua/" target="_blank">
 						<img src="img/epicall-logo.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
@@ -277,7 +277,7 @@
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="#">
+					<a href="http://www.kostart.com/" target="_blank">
 						<img src="img/kostart-logo.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
@@ -342,7 +342,7 @@
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="#">
+					<a href="http://yaltanet.ru/" target="_blank">
 						<img src="img/yalta-logo.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
@@ -408,7 +408,7 @@
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="#">
+					<a href="http://www.domtele.com/ru" target="_blank">
 						<img src="img/ipsystems-logo.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
@@ -471,7 +471,7 @@
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="#">
+					<a href="http://www.triolan.com" target="_blank">
 						<img src="img/triolan-logo.jpg" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
@@ -534,7 +534,7 @@
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="#">
+					<a href="http://www.domtele.com/ru" target="_blank">
 						<img src="img/ipsystems-logo.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>

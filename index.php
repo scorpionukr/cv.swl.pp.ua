@@ -199,7 +199,7 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/tkl-logo.png" class="company-logo" />
+						<img src="img/epicall-logo.png" class="company-logo" />
 					</a>
 				</div>
 			</div>
@@ -267,7 +267,7 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/tkl-logo.png" class="company-logo" />
+						<img src="img/kostart-logo.png" class="company-logo" />
 					</a>
 				</div>
 			</div>
@@ -332,7 +332,7 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/tkl-logo.png" class="company-logo" />
+						<img src="img/yalta-logo.png" class="company-logo" />
 					</a>
 				</div>
 			</div>
@@ -398,7 +398,7 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/tkl-logo.png" class="company-logo" />
+						<img src="img/ipsystems-logo.png" class="company-logo" />
 					</a>
 				</div>
 			</div>
@@ -461,7 +461,7 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/tkl-logo.png" class="company-logo" />
+						<img src="img/triolan-logo.png" class="company-logo" />
 					</a>
 				</div>
 			</div>
@@ -524,7 +524,7 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/tkl-logo.png" class="company-logo" />
+						<img src="img/ipsystems-logo.png" class="company-logo" />
 					</a>
 				</div>
 			</div>

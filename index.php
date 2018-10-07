@@ -3,8 +3,8 @@
 <head>
 	<title>Bogachev Vitaliy CV</title>
 	<meta charset="utf-8">
-    <meta name="description" content="CV">
-    <meta name="keywords" content="CV">
+    <meta name="description" content="CV Bogachev Vitaliy">
+    <meta name="keywords" content="CV, resume, cv, Resume, RESUME, Bogahev, Bogachov, Bohachov">
     <meta name="author" content="Scorpion">
 	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="css/main.css" />

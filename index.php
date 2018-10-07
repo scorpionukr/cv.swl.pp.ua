@@ -686,22 +686,22 @@
 		</div>
 	</div>
 	<!-- Modal -->
-		<div class="ui modal fixed" id="rec-01">
-			<!--<i class="close icon"></i>-->
-			<div class="header">Oleh Golovin - recruiter at X1 Group</div>
-			<div class="image content">
-				<div class="image">
-					<img src="img/rec-golovin.jpg" class="ui medium circular middle aligned image">
-				</div>
-				<div class="description">
-					<p>Vitaliy is extremely professional system administrator with proven skills in all areas of IT.<br />
-					Support, network maintenance & setting up, VPNs, proxies and all that sys-admin stuff - that`re definitely Vitaliy`s professional areas.<br />
-					<br />
-					Workable network, xbox with TV on the wall, stable CRM and hardware, gin and fun - that`s all in our office because of Vitaliy.<br />
-					He`s definitely a catch for any IT company, but you`ll never get him as we`ll never let him go.</p>
-					<button class="ui red button" onclick="recClose('rec-01');">Close</button>
-				</div>
+	<div class="ui modal active" id="rec-01">
+		<!--<i class="close icon"></i>-->
+		<div class="header">Oleh Golovin - recruiter at X1 Group</div>
+		<div class="image content">
+			<div class="image">
+				<img src="img/rec-golovin.jpg" class="ui medium circular middle aligned image">
+			</div>
+			<div class="description">
+				<p>Vitaliy is extremely professional system administrator with proven skills in all areas of IT.<br />
+				Support, network maintenance & setting up, VPNs, proxies and all that sys-admin stuff - that`re definitely Vitaliy`s professional areas.<br />
+				<br />
+				Workable network, xbox with TV on the wall, stable CRM and hardware, gin and fun - that`s all in our office because of Vitaliy.<br />
+				He`s definitely a catch for any IT company, but you`ll never get him as we`ll never let him go.</p>
+				<button class="ui red button" onclick="recClose('rec-01');">Close</button>
 			</div>
 		</div>
+	</div>
 </body>
 </html>

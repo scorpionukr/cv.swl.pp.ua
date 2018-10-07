@@ -26,6 +26,14 @@
 		function recsh(idModal) {
 			$('#'+idModal).modal('show');
 		}
+		$(function(){
+			$("#rec-btn").click(function(){
+				$(".ui.modal").modal('show');
+			});
+			$(".ui.modal").modal({
+				closable: true
+			});
+		});
 	</script>
 </head>
 <body>
@@ -206,7 +214,7 @@
 						</tbody>
 					</table>
 					<button class="ui inverted orange button" onclick="showHide('svitla-table');">More</button>
-					<button class="ui inverted orange button" onclick="recsh('rec-01');">Recomendation</button>
+					<button class="ui inverted orange button" onclick="recsh('rec-01');" id="rec-btn">Recomendation</button>
 				</div>
 			</div>
 		</div>

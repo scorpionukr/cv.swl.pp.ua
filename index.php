@@ -67,10 +67,10 @@
 		</div>
 		<div class="ui two column stackable grid">
 			<div class="column">
-				<div class="ui segment">Content</div>
+				<div class="ui red message">Red</div>
 			</div>
 			<div class="column">
-				<div class="ui segment">Content</div>
+				<div class="ui orange message">Orange</div>
 			</div>
 		</div>
 	</div>

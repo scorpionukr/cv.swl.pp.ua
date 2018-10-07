@@ -551,8 +551,8 @@
 					Kharkiv, Ukraine<br />
 					<b>Responsibility:</b>
 					<ul class="ui list">
-						<li>Configuration and optimization servers based on Linux</li>
-						<li>Setting up a network L2/L3 switches and routers</li>
+						<li>Сonnecting new users to the local network</li>
+						<li>local network troubleshooting</li>
 						<li>Designing the network topology</li>
 						<li>Setting the company's internal LAN and WiFi</li>
 					</ul>

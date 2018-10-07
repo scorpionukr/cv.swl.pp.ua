@@ -84,13 +84,31 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/tkl-logo.png" class="company-logo" />
+						<img src="img/svitla-logo.png" class="company-logo" />
 					</a>
 				</div>
 			</div>
 			<div class="column left aligned">
 				<div class="ui orange message">
 					<h3 class="ui header">Svitla</h3>
+					<b>Senior System Administrator</b><br />
+					November 2015 – May 2018<br />
+					Kharkiv, Ukraine<br />
+					<br />
+					<b>Responsibility:</b><br />
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Linux</li>
+						<li>Configuration and support high-load servers</li>
+						<li>Setup replication Master-Slave and Master-Master</li>
+						<li>Configuring and support web servers and databases</li>
+						<li>Configuration backups</li>
+						<li>Migration applications from Parse® to Heroku®</li>
+						<li>Application support to the Parse® and Heroku® platform</li>
+						<li>Configuring tunnels for remote client servers</li>
+						<li>Xen server virtualization</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+						<li>Support for developers and QA</li>
+					</ul>
 				</div>
 			</div>
 		</div>

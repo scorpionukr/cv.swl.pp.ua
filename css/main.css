@@ -10,9 +10,12 @@ body {
 	left: 15px;
 }
 .company-logo {
-	width: 40%;
+	width: 80%;
 	border: 0px;
 }
 .alig-rig {
 	text-align: right;
+}
+.w-200 {
+	width: 200px;
 }

@@ -48,26 +48,9 @@
 			<p></p>
 			<p></p>
 		</div>
-		<div class="ui raised very padded text container segments">
-			<div class="ui segment">
-				<p>Top</p>
-			</div>
-			<div class="ui red segment">
-				<p>Middle</p>
-			</div>
-			<div class="ui blue segment">
-				<p>Middle</p>
-			</div>
-			<div class="ui green segment">
-				<p>Middle</p>
-			</div>
-			<div class="ui yellow segment">
-				<p>Bottom</p>
-			</div>
-		</div>
 		<div class="ui two column stackable grid center aligned container">
 			<!-- TKL -->
-			<div class="column">
+			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
 						<img src="img/tkl-logo.png" class="company-logo" />
@@ -80,25 +63,43 @@
 				</div>
 			</div>
 			<!-- SVITLA -->
-			<div class="column">
-				<div class="ui">Red</div>
+			<div class="column w-200">
+				<div class="ui alig-rig">
+					<a href="#">
+						<img src="img/tkl-logo.png" class="company-logo" />
+					</a>
+				</div>
 			</div>
 			<div class="column">
-				<div class="ui orange message">Orange</div>
+				<div class="ui orange message">
+					<h3 class="ui header">Svitla</h3>
+				</div>
 			</div>
 			<!-- EPICALL -->
-			<div class="column">
-				<div class="ui">Red</div>
+			<div class="column w-200">
+				<div class="ui alig-rig">
+					<a href="#">
+						<img src="img/tkl-logo.png" class="company-logo" />
+					</a>
+				</div>
 			</div>
 			<div class="column">
-				<div class="ui green message">Green</div>
+				<div class="ui green message">
+					<h3 class="ui header">Epicall</h3>
+				</div>
 			</div>
 			<!-- YALTA -->
-			<div class="column">
-				<div class="ui">Red</div>
+			<div class="column w-200">
+				<div class="ui alig-rig">
+					<a href="#">
+						<img src="img/tkl-logo.png" class="company-logo" />
+					</a>
+				</div>
 			</div>
 			<div class="column">
-				<div class="ui blue message">Blue</div>
+				<div class="ui blue message">
+					<h3 class="ui header">Yalta TV</h3>
+				</div>
 			</div>
 		</div>
 	</div>

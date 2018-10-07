@@ -671,7 +671,7 @@
 		<div class="ui grid three column pad-30">
 			<div class="row">
 				<div class="column">
-					<p>Coded and Designed by SWL &copy; 2018.</p>
+					<p class="copyr">Coded and Designed by SWL &copy; 2016-2018.</p>
 				</div>
 				<div class="column">
 				</div>

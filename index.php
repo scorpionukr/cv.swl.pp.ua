@@ -37,7 +37,7 @@
 		<!-- menu button -->
 		<button class="ui inverted button mesto icon" onClick="showHide('menu');"><i class="content icon"></i></button>
 		<!-- WELCOME -->
-		<div class="back-welcome">
+		<div class="back-welcome" id="welcome">
 			<div class="ui two column grid left aligned container">
 				<div class="column w-200">
 					<div class="ui alig-rig">
@@ -83,6 +83,7 @@
 						<li>Setting the company's internal LAN and WiFi</li>
 						<li>Support for developers and QA</li>
 					</ul>
+					<button class="ui inverted red button" onclick="showHide('tkl-table');">More</button>
 				</div>
 			</div>
 		</div>

@@ -610,14 +610,18 @@
 			<div class="column">
 			</div>
 		</div>
-		<div class="ui grid">
-			<div class="column left aligned">
-				<div class="ui blue message">
-					<h3 class="ui header">Kharkov National University of Radioelectronics</h3>
-					<b>Bachelor</b><br />
-					2008 – 2012<br />
-					Kharkiv, Ukraine<br />
+		<div class="ui grid three column">
+			<div class="row">
+				<div class="column"></div>
+				<div class="column left aligned">
+					<div class="ui blue message">
+						<h3 class="ui header">Kharkov National University of Radioelectronics</h3>
+						<b>Bachelor</b><br />
+						2008 – 2012<br />
+						Kharkiv, Ukraine<br />
+					</div>
 				</div>
+				<div class="column"></div>
 			</div>
 		</div>
 	</div>

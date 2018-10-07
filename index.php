@@ -48,8 +48,8 @@
 			<p></p>
 			<p></p>
 		</div>
-		<div class="ui two column grid center aligned container">
-			<!-- TKL -->
+		<!-- TKL -->
+		<div class="ui two column grid left aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">

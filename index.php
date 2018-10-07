@@ -56,7 +56,7 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/tkl-logo.png" class="ui small circular middle aligned image company-logo" />
+						<img src="img/tkl-logo-2.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
 			</div>

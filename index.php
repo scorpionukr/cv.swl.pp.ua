@@ -86,21 +86,18 @@
 					<table class="ui red table disp-none" id="tkl-table">
 						<thead>
 							<tr>
-								<th>Food</th>
-								<th>Calories</th>
-								<th>Protein</th>
+								<th></th>
+								<th></th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
-								<td>Apples</td>
-								<td>200</td>
-								<td>0g</td>
+								<td><b>OS</b></td>
+								<td>RedHat, CentOS, Ubuntu;</td>
 							</tr>
 							<tr>
-								<td>Orange</td>
+								<td>Applications</td>
 								<td>310</td>
-								<td>0g</td>
 							</tr>
 						</tbody>
 					</table>

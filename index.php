@@ -47,7 +47,7 @@
 				<div class="column">
 					<h1 class="ui header yellow">Bogachev Vitaliy</h1>
 					<h2 class="ui header yellow">Senior System Administrator</h2>
-					<i class="big linkedin icon blue"></i>&nbsp;<i class="big github icon yellow"></i>&nbsp;<i class="big instagram icon yellow"></i>&nbsp;<i class="big skype icon blue"></i>&nbsp;
+					<i class="big linkedin icon blue"></i>&nbsp;<i class="big github icon blue"></i>&nbsp;<i class="big instagram icon blue"></i>&nbsp;<i class="big skype icon blue"></i>&nbsp;
 				</div>
 			</div>
 		</div>

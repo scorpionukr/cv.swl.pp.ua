@@ -83,6 +83,27 @@
 						<li>Setting the company's internal LAN and WiFi</li>
 						<li>Support for developers and QA</li>
 					</ul>
+					<table class="ui red table disp-none" id="tkl-table">
+						<thead>
+							<tr>
+								<th>Food</th>
+								<th>Calories</th>
+								<th>Protein</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Apples</td>
+								<td>200</td>
+								<td>0g</td>
+							</tr>
+							<tr>
+								<td>Orange</td>
+								<td>310</td>
+								<td>0g</td>
+							</tr>
+						</tbody>
+					</table>
 					<button class="ui inverted red button" onclick="showHide('tkl-table');">More</button>
 				</div>
 			</div>

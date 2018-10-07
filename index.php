@@ -622,7 +622,7 @@
 							<h3 class="ui header">System Administrator MS Windows Server</h3>
 							<b>Microsoft</b><br />
 							October 2016<br />
-							Licence 0610/А0365/0033<br />
+							License 0610/А0365/0033<br />
 							Kharkiv, Ukraine<br />
 						</div>
 					</div>

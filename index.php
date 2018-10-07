@@ -45,8 +45,8 @@
 					</div>
 				</div>
 				<div class="column">
-					<h1 class="ui header">Bogachev Vitaliy</h1>
-					<h2 class="ui header">Senior System Administrator</h2>
+					<h1 class="ui header yellow">Bogachev Vitaliy</h1>
+					<h2 class="ui header yellow">Senior System Administrator</h2>
 				</div>
 			</div>
 		</div>

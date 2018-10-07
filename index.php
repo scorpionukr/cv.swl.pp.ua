@@ -68,10 +68,12 @@
 		<div class="ui two column stackable grid center aligned container">
 			<!-- TKL -->
 			<div class="column">
-				<div class="ui">Red</div>
+				<div class="ui"><a href="#"><img src="img/tkl-logo.png" /></a></div>
 			</div>
 			<div class="column">
-				<div class="ui red message">Red</div>
+				<div class="ui red message">
+					<h3 class="ui header red">Turnkey-Lender</h3>
+				</div>
 			</div>
 			<!-- SVITLA -->
 			<div class="column">

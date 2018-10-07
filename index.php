@@ -105,11 +105,11 @@
 							</tr>
 							<tr>
 								<td><b>Hardware</b></td>
-								<td>Cisco, Ubiquiti, D-Link</td>
+								<td>Cisco, Ubiquiti, D-Link, HP ProLiant</td>
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>VMWare ESXi, vSphere, iptables, DHCP, Apache2, MySQL, MS SQL Server, Exim, Nagios, IPSec, VLAN, Jenkins, git, Atlassian(JIRA, Confluence, BitBucket)</td>
+								<td>VMWare ESXi, vSphere, iptables, DHCP, Apache2, MySQL, MS SQL Server, Exim, Nagios, IPSec, L2TP, Radius, VLAN, Jenkins, git, Office365, Atlassian(JIRA, Confluence, BitBucket)</td>
 							</tr>
 							<tr>
 								<td><b>Cloud</b></td>
@@ -155,6 +155,41 @@
 						<li>Setting the company's internal LAN and WiFi</li>
 						<li>Support for developers and QA</li>
 					</ul>
+					<table class="ui orange table disp-none" id="svitla-table">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>OS</b></td>
+								<td>
+									Linux: RedHat, CentOS, Ubuntu;<br />
+									Windows Server: 2016;<br />
+									Windows Desktop: 10, 8, 7;<br />
+								</td>
+							</tr>
+							<tr>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>Amazon Web Services, Heroku, GSuite</td>
+							</tr>
+						</tbody>
+					</table>
+					<button class="ui inverted orange button" onclick="showHide('svitla-table');">More</button>
 				</div>
 			</div>
 		</div>

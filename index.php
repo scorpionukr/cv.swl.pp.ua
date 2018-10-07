@@ -53,7 +53,7 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/tkl-logo.png" class="ui small circular image company-logo" />
+						<img src="img/tkl-logo.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
 			</div>
@@ -61,20 +61,21 @@
 				<div class="ui red message">
 					<h3 class="ui header">Turnkey-Lender</h3>
 					<b>Senior System Administrator</b>
-					май 2018 – сент. 2018
-					Продолжительность трудоустройства 5 мес.
-					Регион Kharkiv Region, Ukraine
-
-					Responsibility:
-					Configuration and optimization servers based on Windows Server & Linux
-					Configuration and support high-load servers
-					Setup replication Master-Slave and Master-Master
-					Configuring and support web servers and databases
-					Configuration backups
-					Configuring tunnels for remote client servers
-					VMWare server virtualization
-					Setting the company's internal LAN and WiFi
-					Support for developers and QA
+					May 2018 – September 2018
+					Kharkiv, Ukraine
+					<br />
+					<b>Responsibility:</b>
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Windows Server & Linux</li>
+						<li>Configuration and support high-load servers</li>
+						<li>Setup replication Master-Slave and Master-Master</li>
+						<li>Configuring and support web servers and databases</li>
+						<li>Configuration backups</li>
+						<li>Configuring tunnels for remote client servers</li>
+						<li>VMWare server virtualization</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+						<li>Support for developers and QA</li>
+					</ul>
 				</div>
 			</div>
 		</div>

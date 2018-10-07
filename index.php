@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
 	<title>Bogachev Vitaliy CV</title>
 	<meta charset="utf-8">
@@ -203,7 +203,7 @@
 						</tbody>
 					</table>
 					<button class="ui inverted orange button" onclick="showHide('svitla-table');">More</button>
-					<button class="ui inverted orange button" onclick="recShow('rec-01');"id="rec-btn">Recomendation</button>
+					<button class="ui inverted orange button" onclick="recShow('rec-01');" id="rec-btn">Recomendation</button>
 				</div>
 			</div>
 		</div>
@@ -691,7 +691,7 @@
 		<div class="header">Oleh Golovin - recruiter at X1 Group</div>
 		<div class="image content">
 			<div class="image">
-				<img src="img/rec-golovin.jpg" class="ui medium circular middle aligned image">
+				<img src="img/rec-golovin.jpg" class="ui medium circular middle aligned image" alt="">
 			</div>
 			<div class="description">
 				<p>Vitaliy is extremely professional system administrator with proven skills in all areas of IT.<br />

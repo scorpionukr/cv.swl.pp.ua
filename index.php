@@ -214,7 +214,7 @@
 						</tbody>
 					</table>
 					<button class="ui inverted orange button" onclick="showHide('svitla-table');">More</button>
-					<button class="ui inverted orange button" onclick="recsh('rec-01');" id="rec-btn">Recomendation</button>
+					<button class="ui inverted orange button" id="rec-btn">Recomendation</button>
 				</div>
 			</div>
 		</div>

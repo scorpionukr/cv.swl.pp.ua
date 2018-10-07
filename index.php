@@ -49,7 +49,7 @@
 			<p></p>
 		</div>
 		<!-- TKL -->
-		<div class="ui two column grid left aligned container">
+		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
@@ -57,7 +57,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="column">
+			<div class="column left aligned">
 				<div class="ui red message">
 					<h3 class="ui header">Turnkey-Lender</h3>
 					<b>Senior System Administrator</b>
@@ -88,7 +88,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="column">
+			<div class="column left aligned">
 				<div class="ui orange message">
 					<h3 class="ui header">Svitla</h3>
 				</div>
@@ -103,7 +103,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="column">
+			<div class="column left aligned">
 				<div class="ui green message">
 					<h3 class="ui header">Epicall</h3>
 				</div>
@@ -118,7 +118,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="column">
+			<div class="column left aligned">
 				<div class="ui violet message">
 					<h3 class="ui header">KoStart</h3>
 				</div>
@@ -133,7 +133,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="column">
+			<div class="column left aligned">
 				<div class="ui blue message">
 					<h3 class="ui header">Yalta TV</h3>
 				</div>
@@ -148,7 +148,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="column">
+			<div class="column left aligned">
 				<div class="ui blue message">
 					<h3 class="ui header">IpSystmes</h3>
 				</div>
@@ -163,7 +163,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="column">
+			<div class="column left aligned">
 				<div class="ui red message">
 					<h3 class="ui header">Triolan</h3>
 				</div>
@@ -178,7 +178,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="column">
+			<div class="column left aligned">
 				<div class="ui blue message">
 					<h3 class="ui header">IpSystems</h3>
 				</div>

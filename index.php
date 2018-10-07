@@ -47,7 +47,10 @@
 				<div class="column">
 					<h1 class="ui header yellow">Bogachev Vitaliy</h1>
 					<h2 class="ui header yellow">Senior System Administrator</h2>
-					<i class="big linkedin icon blue"></i>&nbsp;<i class="big github icon blue"></i>&nbsp;<i class="big instagram icon blue"></i>&nbsp;<i class="big skype icon blue"></i>&nbsp;
+					<a href="https://www.linkedin.com/in/lordsith/" target="_blank"><i class="big linkedin icon blue"></i></a>
+					<a href="https://github.com/scorpionukr" target="_blank"><i class="big github icon blue"></i></a>
+					<a href="https://www.instagram.com/darth.scorpion/" target="_blank"><i class="big instagram icon blue"></i></a>
+					<a href="skype:darth-scorpion" target="_blank"><i class="big skype icon blue"></i></a>
 				</div>
 			</div>
 		</div>

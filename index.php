@@ -202,6 +202,7 @@
 						</tbody>
 					</table>
 					<button class="ui inverted orange button" onclick="showHide('svitla-table');">More</button>
+					<button class="ui inverted orange button" onclick="recShow('rec-01');">Recomendation</button>
 				</div>
 			</div>
 		</div>
@@ -680,6 +681,20 @@
 						<img src="img/valid.png" alt="" />
 					</a>
 				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Modal -->
+	<div class="ui modal disp-none" id="rec-01">
+		<div class="header">Oleh Golovin - recruiter at X1 Group</div>
+		<div class="image content">
+			<img class="image">
+			<div class="description">
+				<p>Vitaliy is extremely professional system administrator with proven skills in all areas of IT.<br />
+				Support, network maintenance & setting up, VPNs, proxies and all that sys-admin stuff - that`re definitely Vitaliy`s professional areas.<br />
+				<br />
+				Workable network, xbox with TV on the wall, stable CRM and hardware, gin and fun - that`s all in our office because of Vitaliy.<br />
+				He`s definitely a catch for any IT company, but you`ll never get him as we`ll never let him go.</p>
 			</div>
 		</div>
 	</div>

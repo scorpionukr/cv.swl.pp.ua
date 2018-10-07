@@ -65,12 +65,18 @@
 				<p>Bottom</p>
 			</div>
 		</div>
-		<div class="ui two column stackable grid">
+		<div class="ui two column stackable grid center aligned container">
 			<div class="column">
 				<div class="ui red message">Red</div>
 			</div>
 			<div class="column">
 				<div class="ui orange message">Orange</div>
+			</div>
+			<div class="column">
+				<div class="ui green message">Green</div>
+			</div>
+			<div class="column">
+				<div class="ui blue message">Blue</div>
 			</div>
 		</div>
 	</div>

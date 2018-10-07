@@ -337,7 +337,7 @@
 				</div>
 			</div>
 			<div class="column left aligned">
-				<div class="ui blue message">
+				<div class="ui olive message">
 					<h3 class="ui header">Yalta TV</h3>
 					<b>System Administrator</b><br />
 					March 2013 – August 2013<br />
@@ -355,7 +355,7 @@
 						<li>Xen server virtualization</li>
 						<li>Support for employees</li>
 					</ul>
-					<table class="ui blue table disp-none" id="yalta-table">
+					<table class="ui olive table disp-none" id="yalta-table">
 						<thead>
 							<tr>
 								<th></th>
@@ -389,7 +389,7 @@
 							</tr>
 						</tbody>
 					</table>
-					<button class="ui inverted blue button" onclick="showHide('yalta-table');">More</button>
+					<button class="ui inverted olive button" onclick="showHide('yalta-table');">More</button>
 				</div>
 			</div>
 		</div>

@@ -668,11 +668,12 @@
 				</div>
 			</div>
 		</div>
-		<div class="ui grid three column">
+		<div class="ui grid three column pad-30">
 			<div class="row">
-				<div class="column"></div>
 				<div class="column">
-					
+					<p>Coded and Designed by SWL &copy;</p>
+				</div>
+				<div class="column">
 				</div>
 				<div class="column right aligned">
 					<a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fcv.swl.pp.ua%2F" target="_blank">

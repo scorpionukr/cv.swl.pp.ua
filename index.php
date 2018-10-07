@@ -56,6 +56,15 @@
 			</div>
 		</div>
 		<!-- WORK -->
+		<div class="ui two column grid center aligned container marg-work" id="work">
+			<div class="column">
+				<div class="ui alig-rig">
+					<h2 class="ui header">Experience</h2>
+				</div>
+			</div>
+			<div class="column">
+			</div>
+		</div>
 		<!-- TKL -->
 		<div class="ui two column grid center aligned container marg-work" id="work">
 			<div class="column w-200">
@@ -532,7 +541,7 @@
 				<div class="ui blue message">
 					<h3 class="ui header">IpSystems</h3>
 					<b>Mounter</b><br />
-					June 2008 – August 2009
+					June 2008 – August 2009<br />
 					Kharkiv, Ukraine<br />
 					<b>Responsibility:</b>
 					<ul class="ui list">

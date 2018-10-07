@@ -93,11 +93,31 @@
 						<tbody>
 							<tr>
 								<td><b>OS</b></td>
-								<td>RedHat, CentOS, Ubuntu;</td>
+								<td>
+									Linux: CentOS, Ubuntu;<br />
+									Windows Server: 2016, 2012;<br />
+									Windows Desktop: 10, 7;<br />
+								</td>
 							</tr>
 							<tr>
-								<td>Applications</td>
-								<td>310</td>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell, PowerShell</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Cisco, Ubiquiti, D-Link</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>VMWare ESXi, vSphere, iptables, DHCP, Apache2, MySQL, MS SQL Server, Exim, Nagios, IPSec, VLAN, Jenkins, git, Atlassian(JIRA, Confluence, BitBucket)</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>Amazon Web Services, MS Azure</td>
+							</tr>
+							<tr>
+								<td><b>VOIP</b></td>
+								<td>3CX Asterisk system</td>
 							</tr>
 						</tbody>
 					</table>

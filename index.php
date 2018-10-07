@@ -50,7 +50,7 @@
 		</div>
 		<div class="ui two column stackable grid center aligned container">
 			<!-- TKL -->
-			<div class="column w-200">
+			<div class="column">
 				<div class="ui alig-rig">
 					<a href="#">
 						<img src="img/tkl-logo.png" class="company-logo" />
@@ -63,7 +63,7 @@
 				</div>
 			</div>
 			<!-- SVITLA -->
-			<div class="column w-200">
+			<div class="column">
 				<div class="ui alig-rig">
 					<a href="#">
 						<img src="img/tkl-logo.png" class="company-logo" />
@@ -76,7 +76,7 @@
 				</div>
 			</div>
 			<!-- EPICALL -->
-			<div class="column w-200">
+			<div class="column">
 				<div class="ui alig-rig">
 					<a href="#">
 						<img src="img/tkl-logo.png" class="company-logo" />
@@ -89,7 +89,7 @@
 				</div>
 			</div>
 			<!-- YALTA -->
-			<div class="column w-200">
+			<div class="column">
 				<div class="ui alig-rig">
 					<a href="#">
 						<img src="img/tkl-logo.png" class="company-logo" />

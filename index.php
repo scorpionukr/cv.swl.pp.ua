@@ -55,6 +55,7 @@
 					<a href="https://github.com/scorpionukr" target="_blank"><i class="big github icon blue"></i></a>
 					<a href="https://www.instagram.com/darth.scorpion/" target="_blank"><i class="big instagram icon blue"></i></a>
 					<a href="skype:darth-scorpion" target="_blank"><i class="big skype icon blue"></i></a>
+					<a href="mailto:scorpionukr@gmail.com" target="_blank"><i class="big envelope outline icon blue"></i></a>
 				</div>
 			</div>
 		</div>

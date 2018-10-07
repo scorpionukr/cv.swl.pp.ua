@@ -4,3 +4,8 @@ body {
 #menu {
 	display: none;
 }
+.mesto {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+}

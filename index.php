@@ -430,7 +430,7 @@
 				<div class="ui blue message">
 					<h3 class="ui header">IpSystmes</h3>
 					<b>System Administrator</b><br />
-					October 2011 – February 2013
+					October 2011 – February 2013<br />
 					Kharkiv, Ukraine<br />
 					<b>Responsibility:</b>
 					<ul class="ui list">
@@ -488,7 +488,7 @@
 				<div class="ui red message">
 					<h3 class="ui header">Triolan</h3>
 					<b>System Administrator</b><br />
-					September 2009 – December 2010
+					September 2009 – December 2010<br />
 					Kharkiv, Ukraine<br />
 					<b>Responsibility:</b>
 					<ul class="ui list">

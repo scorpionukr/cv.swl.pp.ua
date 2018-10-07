@@ -36,18 +36,21 @@
 		<!-- Site content !-->
 		<!-- menu button -->
 		<button class="ui inverted button mesto icon" onClick="showHide('menu');"><i class="content icon"></i></button>
-		<!-- Ciaeiinoai -->
+		<!-- WELCOME -->
 		<div class="back-welcome">
-		<div class="ui center aligned container">
-			<p>Bogachev Vitaliy CV</p>
+			<div class="ui two column grid left aligned container">
+				<div class="column w-200">
+					<div class="ui alig-rig">
+						<img src="img/avatar.jpg" class="ui medium circular middle aligned image" />
+					</div>
+				</div>
+				<div class="column">
+					<h1 class="ui header">Bogachev Vitaliy</h1>
+					<h2 class="ui header">Senior System Administrator</h2>
+				</div>
+			</div>
 		</div>
-		</div>
-		<!-- Iiuo ?aaiou -->
-		<div class="ui raised very padded text container segment">
-			<h2 class="ui header">Dogs Roles with Humans</h2>
-			<p></p>
-			<p></p>
-		</div>
+		<!-- WORK -->
 		<!-- TKL -->
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">

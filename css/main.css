@@ -44,3 +44,8 @@ body {
 .copyr {
 	color: #fff !important;
 }
+#rec-01 {
+	position: absolute;
+	top: 100px;
+	left: 30%;
+}

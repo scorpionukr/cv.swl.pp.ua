@@ -121,7 +121,7 @@
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>VMWare ESXi, vSphere, iptables, DHCP, Apache2, MySQL, MS SQL Server, Exim, Nagios, IPSec, L2TP, Radius, VLAN, Jenkins, git, Office365, Atlassian(JIRA, Confluence, BitBucket)</td>
+								<td>VMWare ESXi, vSphere, iptables, DHCP, IIS, .NET, Active Directory, DNS, GPO, Apache2, MySQL, MS SQL Server, Exim, Nagios, IPSec, L2TP, Radius, VLAN, Jenkins, git, Office365, Atlassian(JIRA, Confluence, BitBucket)</td>
 							</tr>
 							<tr>
 								<td><b>Cloud</b></td>
@@ -193,7 +193,7 @@
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd, PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Parse, Zoho CRM</td>
 							</tr>
 							<tr>
 								<td><b>Cloud</b></td>
@@ -247,8 +247,7 @@
 								<td><b>OS</b></td>
 								<td>
 									Linux: RedHat, CentOS, Ubuntu;<br />
-									Windows Server: 2016;<br />
-									Windows Desktop: 10, 8, 7;<br />
+									Windows Desktop: 8, 7, Vista, XP;<br />
 								</td>
 							</tr>
 							<tr>
@@ -257,15 +256,35 @@
 							</tr>
 							<tr>
 								<td><b>Hardware</b></td>
-								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+								<td>Mikrotik, D-Link, TPLink</td>
+							</tr>
+							<tr>
+								<td><b>GSM gateway</b></td>
+								<td>OpenVox</td>
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, VLAN, git, Postfix, Dovecot, Rouncube, vsFTPd, PHP 5, OpenVPN</td>
+							</tr>
+							<tr>
+								<td><b>VOIP</b></td>
+								<td>Asterisk 1.8, Asterisk 11, connect Dongle to 3G modems</td>
+							</tr>
+							<tr>
+								<td><b>Programming languages</b></td>
+								<td>PHP, Python, SQL</td>
+							</tr>
+							<tr>
+								<td><b>Frameworks</b></td>
+								<td>jQuery, BootStrap</td>
+							</tr>
+							<tr>
+								<td><b>WEB</b></td>
+								<td>HTML5, JS, CSS</td>
 							</tr>
 							<tr>
 								<td><b>Cloud</b></td>
-								<td>Amazon Web Services, Heroku, GSuite</td>
+								<td>DigitalOcean</td>
 							</tr>
 						</tbody>
 					</table>
@@ -311,8 +330,7 @@
 							<tr>
 								<td><b>OS</b></td>
 								<td>
-									Linux: RedHat, CentOS, Ubuntu;<br />
-									Windows Server: 2016;<br />
+									Linux: CentOS, Ubuntu;<br />
 									Windows Desktop: 10, 8, 7;<br />
 								</td>
 							</tr>
@@ -322,15 +340,15 @@
 							</tr>
 							<tr>
 								<td><b>Hardware</b></td>
-								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+								<td>Mikrotik, D-Link, Zyxel, TPLink</td>
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, git, Postfix, Dovecot, vsFTPd PHP 5, PPTP</td>
 							</tr>
 							<tr>
 								<td><b>Cloud</b></td>
-								<td>Amazon Web Services, Heroku, GSuite</td>
+								<td>DigitalOcean</td>
 							</tr>
 						</tbody>
 					</table>
@@ -377,9 +395,8 @@
 							<tr>
 								<td><b>OS</b></td>
 								<td>
-									Linux: RedHat, CentOS, Ubuntu;<br />
-									Windows Server: 2016;<br />
-									Windows Desktop: 10, 8, 7;<br />
+									Linux: RedHat, CentOS, Ubuntu, Gentoo;<br />
+									Windows Desktop: 7, Vista, XP, 98;<br />
 								</td>
 							</tr>
 							<tr>
@@ -388,15 +405,11 @@
 							</tr>
 							<tr>
 								<td><b>Hardware</b></td>
-								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+								<td>Cisco, Linksys, Mikrotik, D-Link</td>
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
-							</tr>
-							<tr>
-								<td><b>Cloud</b></td>
-								<td>Amazon Web Services, Heroku, GSuite</td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Postfix, Dovecot, vsFTPd PHP 5, L2TP, PPTP</td>
 							</tr>
 						</tbody>
 					</table>
@@ -441,8 +454,7 @@
 								<td><b>OS</b></td>
 								<td>
 									Linux: RedHat, CentOS, Ubuntu;<br />
-									Windows Server: 2016;<br />
-									Windows Desktop: 10, 8, 7;<br />
+									Windows Desktop: 7, Vista, XP, 98;<br />
 								</td>
 							</tr>
 							<tr>
@@ -451,15 +463,11 @@
 							</tr>
 							<tr>
 								<td><b>Hardware</b></td>
-								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+								<td>Cisco, D-Link, TPLink, Planet</td>
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
-							</tr>
-							<tr>
-								<td><b>Cloud</b></td>
-								<td>Amazon Web Services, Heroku, GSuite</td>
+								<td>Xen, VirtualBox, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Postfix, Dovecot, vsFTPd PHP 5, L2TP, PPTP</td>
 							</tr>
 						</tbody>
 					</table>
@@ -504,8 +512,8 @@
 								<td><b>OS</b></td>
 								<td>
 									Linux: RedHat, CentOS, Ubuntu;<br />
-									Windows Server: 2016;<br />
-									Windows Desktop: 10, 8, 7;<br />
+									Windows Server: 2008;<br />
+									Windows Desktop: 7, Vista, XP, 98;<br />
 								</td>
 							</tr>
 							<tr>
@@ -514,15 +522,11 @@
 							</tr>
 							<tr>
 								<td><b>Hardware</b></td>
-								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+								<td>Cisco, Mikrotik, D-Link, TPLink</td>
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
-							</tr>
-							<tr>
-								<td><b>Cloud</b></td>
-								<td>Amazon Web Services, Heroku, GSuite</td>
+								<td>Xen, VirtualBox, iptables, DHCP, Apache2, nginx, MySQL, IIS, MS SQL, .NET, Nagios, Postfix, Dovecot, vsFTPd PHP 5, L2TP, PPTP</td>
 							</tr>
 						</tbody>
 					</table>
@@ -563,9 +567,8 @@
 							<tr>
 								<td><b>OS</b></td>
 								<td>
-									Linux: RedHat, CentOS, Ubuntu;<br />
-									Windows Server: 2016;<br />
-									Windows Desktop: 10, 8, 7;<br />
+									Linux: Ubuntu;<br />
+									Windows Desktop: Vista, XP, 98, 95;<br />
 								</td>
 							</tr>
 							<tr>
@@ -574,15 +577,11 @@
 							</tr>
 							<tr>
 								<td><b>Hardware</b></td>
-								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+								<td>Cisco, D-Link, TOLink, Planet, UTP cat.5e</td>
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
-							</tr>
-							<tr>
-								<td><b>Cloud</b></td>
-								<td>Amazon Web Services, Heroku, GSuite</td>
+								<td>browsers, antiviruses, drivers etc.</td>
 							</tr>
 						</tbody>
 					</table>
@@ -623,6 +622,7 @@
 							<h3 class="ui header">System Administrator MS Windows Server</h3>
 							<b>Microsoft</b><br />
 							October 2016<br />
+							Licence 0610/А0365/0033<br />
 							Kharkiv, Ukraine<br />
 						</div>
 					</div>

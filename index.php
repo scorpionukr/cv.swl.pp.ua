@@ -695,6 +695,7 @@
 				<br />
 				Workable network, xbox with TV on the wall, stable CRM and hardware, gin and fun - that`s all in our office because of Vitaliy.<br />
 				He`s definitely a catch for any IT company, but you`ll never get him as we`ll never let him go.</p>
+				<button class="ui red button" onclick="recHide('rec-01');">Close</button>
 			</div>
 		</div>
 	</div>

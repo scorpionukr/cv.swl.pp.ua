@@ -686,7 +686,7 @@
 		</div>
 	</div>
 	<!-- Modal -->
-		<div class="ui modal fixed">
+		<div class="ui modal fixed" id="rec-01">
 			<!--<i class="close icon"></i>-->
 			<div class="header">Oleh Golovin - recruiter at X1 Group</div>
 			<div class="image content">

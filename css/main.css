@@ -9,7 +9,7 @@ body {
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
-	background: url("img/back.jpg") no-repeat;
+	background: url("/img/back.jpg") no-repeat;
 }
 .mesto {
 	position: absolute;

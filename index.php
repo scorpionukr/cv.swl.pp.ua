@@ -688,7 +688,7 @@
 	<div class="ui modal disp-none" id="rec-01">
 		<div class="header">Oleh Golovin - recruiter at X1 Group</div>
 		<div class="image content">
-			<img class="image">
+			<img src="img/rec-golovin.jpg" class="ui small circular middle aligned image">
 			<div class="description">
 				<p>Vitaliy is extremely professional system administrator with proven skills in all areas of IT.<br />
 				Support, network maintenance & setting up, VPNs, proxies and all that sys-admin stuff - that`re definitely Vitaliy`s professional areas.<br />

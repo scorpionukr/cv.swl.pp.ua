@@ -31,6 +31,7 @@
     		<button class="ui inverted basic button icon" onClick="showHide('menu');"><i class="content icon"></i></button>
   		</div>
   		<a class="item" href="#welcome">Welcome</a>
+		<a class="item" href="#work">Working Experience</a>
 	</div>
 	<div class="pusher">
 		<!-- Site content !-->
@@ -56,7 +57,7 @@
 		</div>
 		<!-- WORK -->
 		<!-- TKL -->
-		<div class="ui two column grid center aligned container marg-work">
+		<div class="ui two column grid center aligned container marg-work" id="work">
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">

@@ -84,7 +84,7 @@
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
-						<img src="img/svitla-logo.png" class="company-logo" />
+						<img src="img/svitla-logo.png" class="ui small circular middle aligned image company-logo" />
 					</a>
 				</div>
 			</div>

@@ -590,80 +590,82 @@
 				</div>
 			</div>
 		</div>
-		<!-- Certificates -->
-		<div class="ui two column grid center aligned container marg-work" id="cert">
-			<div class="column">
-				<div class="ui alig-rig">
-					<h2 class="ui header yellow">Certificates</h2>
-				</div>
-			</div>
-			<div class="column">
-			</div>
-		</div>
-		<div class="ui grid three column">
-			<div class="row">
-				<div class="column"></div>
-				<div class="column left aligned">
-					<div class="ui blue message">
-						<h3 class="ui header">CCNA</h3>
-						<b>Cisco</b><br />
-						August 2015<br />
-						Kharkiv, Ukraine<br />
+		<div class="back-cert">
+			<!-- Certificates -->
+			<div class="ui two column grid center aligned container marg-work" id="cert">
+				<div class="column">
+					<div class="ui alig-rig">
+						<h2 class="ui header yellow">Certificates</h2>
 					</div>
 				</div>
-				<div class="column"></div>
+				<div class="column">
+				</div>
 			</div>
-		</div>
-		<div class="ui grid three column">
-			<div class="row">
-				<div class="column"></div>
-				<div class="column left aligned">
-					<div class="ui blue message">
-						<h3 class="ui header">System Administrator MS Windows Server</h3>
-						<b>Microsoft</b><br />
-						October 2016<br />
-						Kharkiv, Ukraine<br />
+			<div class="ui grid three column">
+				<div class="row">
+					<div class="column"></div>
+					<div class="column left aligned">
+						<div class="ui blue message">
+							<h3 class="ui header">CCNA</h3>
+							<b>Cisco</b><br />
+							August 2015<br />
+							Kharkiv, Ukraine<br />
+						</div>
+					</div>
+					<div class="column"></div>
+				</div>
+			</div>
+			<div class="ui grid three column">
+				<div class="row">
+					<div class="column"></div>
+					<div class="column left aligned">
+						<div class="ui blue message">
+							<h3 class="ui header">System Administrator MS Windows Server</h3>
+							<b>Microsoft</b><br />
+							October 2016<br />
+							Kharkiv, Ukraine<br />
+						</div>
+					</div>
+					<div class="column"></div>
+				</div>
+			</div>
+			<div class="ui grid three column">
+				<div class="row">
+					<div class="column"></div>
+					<div class="column left aligned">
+						<div class="ui blue message">
+							<h3 class="ui header">Try SQL</h3>
+							<b>Code School</b><br />
+							January 2017<br />
+							Kharkiv, Ukraine<br />
+						</div>
+					</div>
+					<div class="column"></div>
+				</div>
+			</div>
+			<!-- Education -->
+			<div class="ui two column grid center aligned container marg-work" id="edu">
+				<div class="column">
+					<div class="ui alig-rig">
+						<h2 class="ui header yellow">Education</h2>
 					</div>
 				</div>
-				<div class="column"></div>
+				<div class="column">
+				</div>
 			</div>
-		</div>
-		<div class="ui grid three column">
-			<div class="row">
-				<div class="column"></div>
-				<div class="column left aligned">
-					<div class="ui blue message">
-						<h3 class="ui header">Try SQL</h3>
-						<b>Code School</b><br />
-						January 2017<br />
-						Kharkiv, Ukraine<br />
+			<div class="ui grid three column">
+				<div class="row">
+					<div class="column"></div>
+					<div class="column left aligned">
+						<div class="ui blue message">
+							<h3 class="ui header">Kharkov National University of Radioelectronics</h3>
+							<b>Bachelor</b><br />
+							2008 – 2012<br />
+							Kharkiv, Ukraine<br />
+						</div>
 					</div>
+					<div class="column"></div>
 				</div>
-				<div class="column"></div>
-			</div>
-		</div>
-		<!-- Education -->
-		<div class="ui two column grid center aligned container marg-work" id="edu">
-			<div class="column">
-				<div class="ui alig-rig">
-					<h2 class="ui header yellow">Education</h2>
-				</div>
-			</div>
-			<div class="column">
-			</div>
-		</div>
-		<div class="ui grid three column">
-			<div class="row">
-				<div class="column"></div>
-				<div class="column left aligned">
-					<div class="ui blue message">
-						<h3 class="ui header">Kharkov National University of Radioelectronics</h3>
-						<b>Bachelor</b><br />
-						2008 – 2012<br />
-						Kharkiv, Ukraine<br />
-					</div>
-				</div>
-				<div class="column"></div>
 			</div>
 		</div>
 	</div>

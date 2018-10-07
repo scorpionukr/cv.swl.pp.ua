@@ -32,6 +32,8 @@
   		</div>
   		<a class="item" href="#welcome">Welcome</a>
 		<a class="item" href="#work">Working Experience</a>
+		<a class="item" href="#cert">Certificates</a>
+		<a class="item" href="#edu">Education</a>
 	</div>
 	<div class="pusher">
 		<!-- Site content !-->
@@ -66,7 +68,7 @@
 			</div>
 		</div>
 		<!-- TKL -->
-		<div class="ui two column grid center aligned container marg-work" id="work">
+		<div class="ui two column grid center aligned container marg-work">
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
@@ -585,6 +587,43 @@
 						</tbody>
 					</table>
 					<button class="ui inverted blue button" onclick="showHide('ipsystems2-table');">More</button>
+				</div>
+			</div>
+		</div>
+		<!-- Certificates -->
+		<div class="ui two column grid center aligned container marg-work" id="cert">
+			<div class="column">
+				<div class="ui alig-rig">
+					<h2 class="ui header yellow">Certificates</h2>
+				</div>
+			</div>
+			<div class="column">
+			</div>
+		</div>
+		<!-- Education -->
+		<div class="ui two column grid center aligned container marg-work" id="edu">
+			<div class="column">
+				<div class="ui alig-rig">
+					<h2 class="ui header yellow">Education</h2>
+				</div>
+			</div>
+			<div class="column">
+			</div>
+		</div>
+		<div class="ui two column grid center aligned container">
+			<div class="column w-200">
+				<div class="ui alig-rig">
+					<a href="#">
+						<img src="img/ipsystems-logo.png" class="ui small circular middle aligned image company-logo" />
+					</a>
+				</div>
+			</div>
+			<div class="column left aligned">
+				<div class="ui blue message">
+					<h3 class="ui header">Kharkov National University of Radioelectronics</h3>
+					<b>Bachelor</b><br />
+					2008 – 2012<br />
+					Kharkiv, Ukraine<br />
 				</div>
 			</div>
 		</div>

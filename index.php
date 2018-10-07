@@ -22,6 +22,12 @@
 		function recClose(idModal) {
 			$('#'+idModal).hide('fast');
 		}
+		function recsh(idModal) {
+			$('#'+idModal).modal({
+				centered: false
+			})
+			.modal('show');
+		}
 	</script>
 </head>
 <body>
@@ -202,7 +208,7 @@
 						</tbody>
 					</table>
 					<button class="ui inverted orange button" onclick="showHide('svitla-table');">More</button>
-					<button class="ui inverted orange button" onclick="recShow('rec-01');">Recomendation</button>
+					<button class="ui inverted orange button" onclick="recsh('rec-01');">Recomendation</button>
 				</div>
 			</div>
 		</div>

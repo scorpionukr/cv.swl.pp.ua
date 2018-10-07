@@ -206,6 +206,59 @@
 			<div class="column left aligned">
 				<div class="ui green message">
 					<h3 class="ui header">Epicall</h3>
+					<b>Senior System Administrator</b><br />
+					September 2013 – June 2015<br />
+					Kharkiv, Ukraine<br />
+					<br />
+					<b>Responsibility:</b>
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Linux</li>
+						<li>Configuring Asterisk PBX; Dialplan, Routing, IVR, Callback</li>
+						<li>Development and implementation of their own CRM system</li>
+						<li>Configuration and support high-load servers</li>
+						<li>Setup replication Master-Slave</li>
+						<li>Configuring and support web servers and databases</li>
+						<li>Configuration backups</li>
+						<li>Configuring tunnels for remote client servers</li>
+						<li>Xen server virtualization</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+						<li>Support for employees</li>
+					</ul>
+					<table class="ui green table disp-none" id="epicall-table">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>OS</b></td>
+								<td>
+									Linux: RedHat, CentOS, Ubuntu;<br />
+									Windows Server: 2016;<br />
+									Windows Desktop: 10, 8, 7;<br />
+								</td>
+							</tr>
+							<tr>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>Amazon Web Services, Heroku, GSuite</td>
+							</tr>
+						</tbody>
+					</table>
+					<button class="ui inverted green button" onclick="showHide('epicall-table');">More</button>
 				</div>
 			</div>
 		</div>
@@ -221,6 +274,56 @@
 			<div class="column left aligned">
 				<div class="ui violet message">
 					<h3 class="ui header">KoStart</h3>
+					<b>Senior System Administrator</b><br />
+					2015 – 2015<br />
+					Kharkiv, Ukraine<br />
+					<br />
+					<b>Responsibility:</b>
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Linux</li>
+						<li>Configuring and support web servers and databases</li>
+						<li>Development and support of sites</li>
+						<li>Configuration backups</li>
+						<li>Support Bitrix® CRM system</li>
+						<li>Xen server virtualization</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+						<li>Support for employees</li>
+					</ul>
+					<table class="ui violet table disp-none" id="kostart-table">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>OS</b></td>
+								<td>
+									Linux: RedHat, CentOS, Ubuntu;<br />
+									Windows Server: 2016;<br />
+									Windows Desktop: 10, 8, 7;<br />
+								</td>
+							</tr>
+							<tr>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>Amazon Web Services, Heroku, GSuite</td>
+							</tr>
+						</tbody>
+					</table>
+					<button class="ui inverted violet button" onclick="showHide('kostart-table');">More</button>
 				</div>
 			</div>
 		</div>
@@ -236,6 +339,57 @@
 			<div class="column left aligned">
 				<div class="ui blue message">
 					<h3 class="ui header">Yalta TV</h3>
+					<b>System Administrator</b><br />
+					March 2013 – August 2013<br />
+					Yalta, Ukraine<br />
+					<br />
+					<b>Responsibility:</b>
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Linux</li>
+						<li>Setting up a network L2/L3 switches and routers</li>
+						<li>Designing the network topology</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+						<li>Configuration backups</li>
+						<li>Support ABills® billing system</li>
+						<li>Configuring and support web servers and databases</li>
+						<li>Xen server virtualization</li>
+						<li>Support for employees</li>
+					</ul>
+					<table class="ui blue table disp-none" id="yalta-table">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>OS</b></td>
+								<td>
+									Linux: RedHat, CentOS, Ubuntu;<br />
+									Windows Server: 2016;<br />
+									Windows Desktop: 10, 8, 7;<br />
+								</td>
+							</tr>
+							<tr>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>Amazon Web Services, Heroku, GSuite</td>
+							</tr>
+						</tbody>
+					</table>
+					<button class="ui inverted blue button" onclick="showHide('yalta-table');">More</button>
 				</div>
 			</div>
 		</div>
@@ -251,6 +405,54 @@
 			<div class="column left aligned">
 				<div class="ui blue message">
 					<h3 class="ui header">IpSystmes</h3>
+					<b>System Administrator</b><br />
+					October 2011 – February 2013
+					Kharkiv, Ukraine<br />
+					<b>Responsibility:</b>
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Linux</li>
+						<li>Setting up a network L2/L3 switches and routers</li>
+						<li>Designing the network topology</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+						<li>Configuration backups</li>
+						<li>Configuring and support web servers and databases</li>
+						<li>Support for employees</li>
+					</ul>
+					<table class="ui blue table disp-none" id="ipsystems-table">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>OS</b></td>
+								<td>
+									Linux: RedHat, CentOS, Ubuntu;<br />
+									Windows Server: 2016;<br />
+									Windows Desktop: 10, 8, 7;<br />
+								</td>
+							</tr>
+							<tr>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>Amazon Web Services, Heroku, GSuite</td>
+							</tr>
+						</tbody>
+					</table>
+					<button class="ui inverted blue button" onclick="showHide('ipsystems-table');">More</button>
 				</div>
 			</div>
 		</div>
@@ -266,6 +468,54 @@
 			<div class="column left aligned">
 				<div class="ui red message">
 					<h3 class="ui header">Triolan</h3>
+					<b>System Administrator</b><br />
+					September 2009 – December 2010
+					Kharkiv, Ukraine<br />
+					<b>Responsibility:</b>
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Linux</li>
+						<li>Setting up a network L2/L3 switches and routers</li>
+						<li>Designing the network topology</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+						<li>Configuration backups</li>
+						<li>Configuring and support web servers and databases</li>
+						<li>Support for employees</li>
+					</ul>
+					<table class="ui red table disp-none" id="triolan-table">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>OS</b></td>
+								<td>
+									Linux: RedHat, CentOS, Ubuntu;<br />
+									Windows Server: 2016;<br />
+									Windows Desktop: 10, 8, 7;<br />
+								</td>
+							</tr>
+							<tr>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>Amazon Web Services, Heroku, GSuite</td>
+							</tr>
+						</tbody>
+					</table>
+					<button class="ui inverted red button" onclick="showHide('triolan-table');">More</button>
 				</div>
 			</div>
 		</div>
@@ -281,6 +531,51 @@
 			<div class="column left aligned">
 				<div class="ui blue message">
 					<h3 class="ui header">IpSystems</h3>
+					<b>Mounter</b><br />
+					June 2008 – August 2009
+					Kharkiv, Ukraine<br />
+					<b>Responsibility:</b>
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Linux</li>
+						<li>Setting up a network L2/L3 switches and routers</li>
+						<li>Designing the network topology</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+					</ul>
+					<table class="ui blue table disp-none" id="ipsystems2-table">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>OS</b></td>
+								<td>
+									Linux: RedHat, CentOS, Ubuntu;<br />
+									Windows Server: 2016;<br />
+									Windows Desktop: 10, 8, 7;<br />
+								</td>
+							</tr>
+							<tr>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Cisco, Mikrotik, Ubiquiti, D-Link</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>Xen, iptables, DHCP, Apache2, nginx, MySQL, Nagios, IPSec, VLAN, Jenkins, Puppet, git, Postfix, Dovecot, vsFTPd PHP 5.6 or 7, L2TP, PPTP, Docker, npm, MongoDB, Zoho CRM</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>Amazon Web Services, Heroku, GSuite</td>
+							</tr>
+						</tbody>
+					</table>
+					<button class="ui inverted blue button" onclick="showHide('ipsystems2-table');">More</button>
 				</div>
 			</div>
 		</div>

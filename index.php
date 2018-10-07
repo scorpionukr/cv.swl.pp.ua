@@ -9,9 +9,14 @@
 	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="css/main.css" />
 	<link rel="stylesheet" type="text/css" href="semantic/semantic.min.css" />
+	<link rel="stylesheet" type="text/css" href="semantic/components/modal.min.js" />
+	<link rel="stylesheet" type="text/css" href="semantic/components/transition.min.js" />
+	<link rel="stylesheet" type="text/css" href="semantic/components/dimmer.min.js" />
 	<!-- JS -->
 	<script src="semantic/semantic.min.js"></script>
 	<script src="semantic/components/modal.min.js"></script>
+	<script src="semantic/components/transition.min.js"></script>
+	<script src="semantic/components/dimmer.min.js"></script>
 	<script src="js/jquery/jquery-3.1.0.min.js"></script>
 	<script>
 		function showHide(idDiv) {

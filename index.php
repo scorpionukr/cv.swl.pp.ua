@@ -60,9 +60,9 @@
 			<div class="column left aligned">
 				<div class="ui red message">
 					<h3 class="ui header">Turnkey-Lender</h3>
-					<b>Senior System Administrator</b>
-					May 2018 – September 2018
-					Kharkiv, Ukraine
+					<b>Senior System Administrator</b><br />
+					May 2018 – September 2018<br />
+					Kharkiv, Ukraine<br />
 					<br />
 					<b>Responsibility:</b>
 					<ul class="ui list">

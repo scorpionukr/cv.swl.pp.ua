@@ -24,7 +24,7 @@
 			$('#'+idModal).hide('fast');
 		}
 		function recsh(idModal) {
-			$('#'+idModal).dialog();
+			$('#'+idModal).modal('show');
 		}
 	</script>
 </head>
@@ -689,7 +689,7 @@
 		</div>
 	</div>
 	<!-- Modal -->
-	<div class="ui modal disp-none" id="rec-01">
+	<div class="ui modal" id="rec-01">
 		<!--<i class="close icon"></i>-->
 		<div class="header">Oleh Golovin - recruiter at X1 Group</div>
 		<div class="image content">

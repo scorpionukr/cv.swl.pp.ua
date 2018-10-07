@@ -60,6 +60,21 @@
 			<div class="column">
 				<div class="ui red message">
 					<h3 class="ui header">Turnkey-Lender</h3>
+					<b>Senior System Administrator</b>
+					май 2018 – сент. 2018
+					Продолжительность трудоустройства 5 мес.
+					Регион Kharkiv Region, Ukraine
+
+					Responsibility:
+					Configuration and optimization servers based on Windows Server & Linux
+					Configuration and support high-load servers
+					Setup replication Master-Slave and Master-Master
+					Configuring and support web servers and databases
+					Configuration backups
+					Configuring tunnels for remote client servers
+					VMWare server virtualization
+					Setting the company's internal LAN and WiFi
+					Support for developers and QA
 				</div>
 			</div>
 		</div>

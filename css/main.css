@@ -44,7 +44,7 @@ body {
 .copyr {
 	color: #fff !important;
 }
-#rec-01 {
+.rec {
 	position: absolute;
 	top: 200%;
 	left: 30%;

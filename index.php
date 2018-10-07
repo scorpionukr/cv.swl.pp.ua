@@ -7,22 +7,35 @@
     <meta name="keywords" content="CV">
     <meta name="author" content="Scorpion">
 	<!-- CSS -->
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-	<link rel="stylesheet" type="text/css" href="semantic/semantic.min.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+	<link rel="stylesheet" type="text/css" href="semantic/semantic.min.css" />
 	<!-- JS -->
 	<script src="semantic/dist/semantic.min.js"></script>
+	<script src="js/jquery/jquery-3.1.0.min.js"></script>
 	<script>
-		$('.ui.sidebar').sidebar('toggle');
+		function showHide(idDiv) {
+			$('#'+idDiv).toggle('fast');
+		}
+		function recShow(idModal) {
+			$('#'+idModal).show('fast');
+		}
+		function recClose(idModal) {
+			$('#'+idModal).hide('fast');
+		}
 	</script>
 </head>
 <body>
-	<div class="ui sidebar inverted vertical menu">
-		<a class="item">1</a>
-		<a class="item">2</a>
-		<a class="item">3</a>
+	<!-- menu -->
+	<div id="menu" class="ui left fixed vertical menu inverted">
+  		<div class="ui inverted segment">
+    		<button class="ui inverted basic button icon" onClick="showHide('menu');"><i class="content icon"></i></button>
+  		</div>
+  		<a class="item" href="#welcome">Welcome</a>
 	</div>
 	<div class="pusher">
 		<!-- Site content !-->
+		<!-- menu button -->
+		<button class="ui inverted button mesto icon" onClick="showHide('menu');"><i class="content icon"></i></button>
 		<!-- Ciaeiinoai -->
 		<div class="back-welcome">
 		<div class="ui center aligned container">

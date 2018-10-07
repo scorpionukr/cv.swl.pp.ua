@@ -59,7 +59,7 @@
 		<div class="ui two column grid center aligned container marg-work" id="work">
 			<div class="column">
 				<div class="ui alig-rig">
-					<h2 class="ui header">Experience</h2>
+					<h2 class="ui header yellow">Experience</h2>
 				</div>
 			</div>
 			<div class="column">

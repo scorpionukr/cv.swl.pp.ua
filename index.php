@@ -24,10 +24,7 @@
 			$('#'+idModal).hide('fast');
 		}
 		function recsh(idModal) {
-			$('#'+idModal).modal({
-				centered: false
-			})
-			.modal('show');
+			$('#'+idModal).dialog();
 		}
 	</script>
 </head>

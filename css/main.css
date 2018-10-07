@@ -39,5 +39,8 @@ body {
 	display: none;
 }
 .pad-30 {
-	padding: 30px;
+	padding: 30px !important;
+}
+.copyr {
+	color: #fff !important;
 }

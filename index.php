@@ -686,8 +686,8 @@
 		</div>
 	</div>
 	<!-- Modal -->
-	<div class="ui dimmer modals page transition visible active">
-		<div class="ui modal" id="rec-01">
+	<div class="ui dimmer modals page transition" id="rec-01">
+		<div class="ui modal">
 			<!--<i class="close icon"></i>-->
 			<div class="header">Oleh Golovin - recruiter at X1 Group</div>
 			<div class="image content">

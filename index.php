@@ -610,14 +610,7 @@
 			<div class="column">
 			</div>
 		</div>
-		<div class="ui two column grid center aligned container">
-			<div class="column w-200">
-				<div class="ui alig-rig">
-					<a href="#">
-						<img src="img/ipsystems-logo.png" class="ui small circular middle aligned image company-logo" />
-					</a>
-				</div>
-			</div>
+		<div class="ui grid">
 			<div class="column left aligned">
 				<div class="ui blue message">
 					<h3 class="ui header">Kharkov National University of Radioelectronics</h3>

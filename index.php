@@ -48,9 +48,9 @@
 			<p></p>
 			<p></p>
 		</div>
-		<div class="ui two column stackable grid center aligned container">
+		<div class="ui two column grid center aligned container">
 			<!-- TKL -->
-			<div class="column">
+			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
 						<img src="img/tkl-logo.png" class="company-logo" />
@@ -62,8 +62,10 @@
 					<h3 class="ui header red">Turnkey-Lender</h3>
 				</div>
 			</div>
-			<!-- SVITLA -->
-			<div class="column">
+		</div>
+		<!-- SVITLA -->
+		<div class="ui two column grid center aligned container">
+			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
 						<img src="img/tkl-logo.png" class="company-logo" />
@@ -75,8 +77,10 @@
 					<h3 class="ui header">Svitla</h3>
 				</div>
 			</div>
-			<!-- EPICALL -->
-			<div class="column">
+		</div>
+		<!-- EPICALL -->
+		<div class="ui two column grid center aligned container">
+			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
 						<img src="img/tkl-logo.png" class="company-logo" />
@@ -88,8 +92,10 @@
 					<h3 class="ui header">Epicall</h3>
 				</div>
 			</div>
-			<!-- YALTA -->
-			<div class="column">
+		</div>
+		<!-- YALTA -->
+		<div class="ui two column grid center aligned container">
+			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">
 						<img src="img/tkl-logo.png" class="company-logo" />

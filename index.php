@@ -52,7 +52,7 @@
 		</div>
 		<!-- WORK -->
 		<!-- TKL -->
-		<div class="ui two column grid center aligned container">
+		<div class="ui two column grid center aligned container marg-work">
 			<div class="column w-200">
 				<div class="ui alig-rig">
 					<a href="#">

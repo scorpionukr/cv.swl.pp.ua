@@ -28,6 +28,7 @@
 		function recClose(idModal) {
 			$('#'+idModal).hide('fast');
 		}
+		$('#rec-01').modal();
 	</script>
 </head>
 <body>

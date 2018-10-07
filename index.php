@@ -66,14 +66,30 @@
 			</div>
 		</div>
 		<div class="ui two column stackable grid center aligned container">
+			<!-- TKL -->
+			<div class="column">
+				<div class="ui">Red</div>
+			</div>
 			<div class="column">
 				<div class="ui red message">Red</div>
+			</div>
+			<!-- SVITLA -->
+			<div class="column">
+				<div class="ui">Red</div>
 			</div>
 			<div class="column">
 				<div class="ui orange message">Orange</div>
 			</div>
+			<!-- EPICALL -->
+			<div class="column">
+				<div class="ui">Red</div>
+			</div>
 			<div class="column">
 				<div class="ui green message">Green</div>
+			</div>
+			<!-- YALTA -->
+			<div class="column">
+				<div class="ui">Red</div>
 			</div>
 			<div class="column">
 				<div class="ui blue message">Blue</div>

@@ -59,7 +59,7 @@
 			</div>
 			<div class="column">
 				<div class="ui red message">
-					<h3 class="ui header red">Turnkey-Lender</h3>
+					<h3 class="ui header">Turnkey-Lender</h3>
 				</div>
 			</div>
 		</div>
@@ -93,6 +93,21 @@
 				</div>
 			</div>
 		</div>
+		<!-- KOSTART -->
+		<div class="ui two column grid center aligned container">
+			<div class="column w-200">
+				<div class="ui alig-rig">
+					<a href="#">
+						<img src="img/tkl-logo.png" class="company-logo" />
+					</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="ui violet message">
+					<h3 class="ui header">KoStart</h3>
+				</div>
+			</div>
+		</div>
 		<!-- YALTA -->
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
@@ -105,6 +120,51 @@
 			<div class="column">
 				<div class="ui blue message">
 					<h3 class="ui header">Yalta TV</h3>
+				</div>
+			</div>
+		</div>
+		<!-- IPSYSTEMS -->
+		<div class="ui two column grid center aligned container">
+			<div class="column w-200">
+				<div class="ui alig-rig">
+					<a href="#">
+						<img src="img/tkl-logo.png" class="company-logo" />
+					</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="ui blue message">
+					<h3 class="ui header">IpSystmes</h3>
+				</div>
+			</div>
+		</div>
+		<!-- TRIOLAN -->
+		<div class="ui two column grid center aligned container">
+			<div class="column w-200">
+				<div class="ui alig-rig">
+					<a href="#">
+						<img src="img/tkl-logo.png" class="company-logo" />
+					</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="ui red message">
+					<h3 class="ui header">Triolan</h3>
+				</div>
+			</div>
+		</div>
+		<!-- IPSYSTEMS -->
+		<div class="ui two column grid center aligned container">
+			<div class="column w-200">
+				<div class="ui alig-rig">
+					<a href="#">
+						<img src="img/tkl-logo.png" class="company-logo" />
+					</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="ui blue message">
+					<h3 class="ui header">IpSystems</h3>
 				</div>
 			</div>
 		</div>

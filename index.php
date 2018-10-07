@@ -68,7 +68,11 @@
 		<div class="ui two column stackable grid center aligned container">
 			<!-- TKL -->
 			<div class="column">
-				<div class="ui"><a href="#"><img src="img/tkl-logo.png" /></a></div>
+				<div class="ui alig-rig">
+					<a href="#">
+						<img src="img/tkl-logo.png" class="company-logo" />
+					</a>
+				</div>
 			</div>
 			<div class="column">
 				<div class="ui red message">

@@ -38,7 +38,7 @@
 		<button class="ui inverted button mesto icon" onClick="showHide('menu');"><i class="content icon"></i></button>
 		<!-- WELCOME -->
 		<div class="back-welcome">
-			<div class="ui two column grid middle aligned container">
+			<div class="ui two column grid left aligned container">
 				<div class="column w-200">
 					<div class="ui alig-rig">
 						<img src="img/avatar.jpg" class="ui medium circular middle aligned image" />

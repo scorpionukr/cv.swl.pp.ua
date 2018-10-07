@@ -10,7 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css" />
 	<link rel="stylesheet" type="text/css" href="semantic/semantic.min.css" />
 	<!-- JS -->
-	<script src="semantic/dist/semantic.min.js"></script>
+	<script src="semantic/semantic.min.js"></script>
 	<script src="js/jquery/jquery-3.1.0.min.js"></script>
 	<script>
 		function showHide(idDiv) {

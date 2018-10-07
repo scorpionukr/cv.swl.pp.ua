@@ -668,6 +668,19 @@
 				</div>
 			</div>
 		</div>
+		<div class="ui grid three column">
+			<div class="row">
+				<div class="column"></div>
+				<div class="column">
+					
+				</div>
+				<div class="column right aligned">
+					<a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fcv.swl.pp.ua%2F" target="_blank">
+						<img src="img/valid.png" alt="" />
+					</a>
+				</div>
+			</div>
+		</div>
 	</div>
 </body>
 </html>

@@ -68,7 +68,7 @@
 			<div class="column">
 			</div>
 		</div>
-		<!-- TKL -->
+		<!-- DEVART -->
 		<div class="ui two column grid center aligned container marg-work">
 			<div class="column w-200">
 				<div class="ui alig-rig">
@@ -81,7 +81,7 @@
 				<div class="ui blue message">
 					<h3 class="ui header">Devart</h3>
 					<b>Senior System Administrator / DevOps</b><br />
-					May 2018 – September 2018<br />
+					October 2018 – ...<br />
 					Kharkiv, Ukraine<br />
 					<br />
 					<b>Responsibility:</b>
@@ -95,7 +95,7 @@
 						<li>Setting the company's internal LAN and WiFi</li>
 						<li>Support for employees</li>
 					</ul>
-					<table class="ui red table disp-none" id="devart-table">
+					<table class="ui blue table disp-none" id="devart-table">
 						<thead>
 							<tr>
 								<th></th>

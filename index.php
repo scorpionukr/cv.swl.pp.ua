@@ -80,7 +80,7 @@
 			<div class="column left aligned">
 				<div class="ui blue message">
 					<h3 class="ui header">Devart</h3>
-					<b>Senior System Administrator</b><br />
+					<b>Senior System Administrator / DevOps</b><br />
 					May 2018 – September 2018<br />
 					Kharkiv, Ukraine<br />
 					<br />

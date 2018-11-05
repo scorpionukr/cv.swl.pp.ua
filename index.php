@@ -117,19 +117,15 @@
 							</tr>
 							<tr>
 								<td><b>Hardware</b></td>
-								<td>Cisco, Ubiquiti, D-Link, HP ProLiant, Supermicro</td>
+								<td>Cisco, Ubiquiti, D-Link, Supermicro</td>
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen server, XenOrchestra, iptables, DHCP, IIS, .NET, Active Directory, DNS, GPO, Apache2, MySQL, MS SQL Server, Exim, Nagios, IPSec, L2TP, Radius, VLAN, Jenkins, git, Office365, Atlassian(JIRA, Confluence, BitBucket)</td>
+								<td>Xen server, XenOrchestra, Docker, iptables, DHCP, IIS, .NET, Active Directory, DNS, GPO, Apache2, MySQL, MS SQL Server, PostgreSQL, Oracle DB, InfluxDB, Telegraf, Grafana, Icinga2, L2TP, Radius, VLAN, git, Atlassian(JIRA, Confluence, BitBucket)</td>
 							</tr>
 							<tr>
 								<td><b>Cloud</b></td>
-								<td>Amazon Web Services, MS Azure</td>
-							</tr>
-							<tr>
-								<td><b>VOIP</b></td>
-								<td>3CX Asterisk system</td>
+								<td>MS Azure</td>
 							</tr>
 						</tbody>
 					</table>

@@ -72,6 +72,75 @@
 		<div class="ui two column grid center aligned container marg-work">
 			<div class="column w-200">
 				<div class="ui alig-rig">
+					<a href="https://www.devart.com/" target="_blank">
+						<img src="img/devart-logo.png" class="ui small circular middle aligned image company-logo" alt="" />
+					</a>
+				</div>
+			</div>
+			<div class="column left aligned">
+				<div class="ui blue message">
+					<h3 class="ui header">Devart</h3>
+					<b>Senior System Administrator</b><br />
+					May 2018 – September 2018<br />
+					Kharkiv, Ukraine<br />
+					<br />
+					<b>Responsibility:</b>
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Windows Server & Linux</li>
+						<li>Working with Docker containers</li>
+						<li>Configuring and support web servers and databases</li>
+						<li>Configuration backups</li>
+						<li>Configuring tunnels for remote client servers</li>
+						<li>Xen server virtualization</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+						<li>Support for employees</li>
+					</ul>
+					<table class="ui red table disp-none" id="devart-table">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>OS</b></td>
+								<td>
+									Linux: CentOS, Ubuntu;<br />
+									Windows Server: 2016, 2012;<br />
+									Windows Desktop: 10;<br />
+								</td>
+							</tr>
+							<tr>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell, PowerShell</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Cisco, Ubiquiti, D-Link, HP ProLiant, Supermicro</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>Xen server, XenOrchestra, iptables, DHCP, IIS, .NET, Active Directory, DNS, GPO, Apache2, MySQL, MS SQL Server, Exim, Nagios, IPSec, L2TP, Radius, VLAN, Jenkins, git, Office365, Atlassian(JIRA, Confluence, BitBucket)</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>Amazon Web Services, MS Azure</td>
+							</tr>
+							<tr>
+								<td><b>VOIP</b></td>
+								<td>3CX Asterisk system</td>
+							</tr>
+						</tbody>
+					</table>
+					<button class="ui inverted blue button" onclick="showHide('devart-table');">More</button>
+				</div>
+			</div>
+		</div>
+		<!-- TKL -->
+		<div class="ui two column grid center aligned container">
+			<div class="column w-200">
+				<div class="ui alig-rig">
 					<a href="https://www.turnkey-lender.com/" target="_blank">
 						<img src="img/tkl-logo-2.png" class="ui small circular middle aligned image company-logo" alt="" />
 					</a>

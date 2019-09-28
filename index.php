@@ -134,11 +134,11 @@
 							</tr>
 							<tr>
 								<td><b>Hardware</b></td>
-								<td>Cisco, Ubiquiti, D-Link, Supermicro</td>
+								<td>Mikrotik, Ubiquiti, D-Link, Supermicro, HP Proliant</td>
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen server, XenOrchestra, Docker, iptables, DHCP, IIS, .NET, Active Directory, DNS, GPO, Apache2, MySQL, MS SQL Server, PostgreSQL, Oracle DB, InfluxDB, Telegraf, Grafana, Icinga2, L2TP, Radius, VLAN, git, Atlassian(JIRA, Confluence, BitBucket)</td>
+								<td>Xen server, XenOrchestra, Docker, iptables, DHCP, IIS, .NET, Active Directory, DNS, GPO, Apache2, Asterisk, MySQL, MS SQL Server, PostgreSQL, Oracle DB, InfluxDB, Telegraf, Grafana, Icinga2, L2TP, IPSec, Radius, VLAN, git, Atlassian(JIRA, Confluence, BitBucket)</td>
 							</tr>
 							<tr>
 								<td><b>Cloud</b></td>
@@ -512,7 +512,7 @@
 			</div>
 			<div class="column left aligned">
 				<div class="ui blue message">
-					<h3 class="ui header">IpSystmes</h3>
+					<h3 class="ui header">IpSystems</h3>
 					<b>System Administrator</b><br />
 					October 2011 – February 2013<br />
 					Kharkiv, Ukraine<br />

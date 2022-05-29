@@ -142,7 +142,7 @@
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen server, XenOrchestra, Docker, Kubernetes, iptables, DHCP, IIS, .NET, netCore, Active Directory, DNS, GPO, Apache2, Asterisk, MySQL, MS SQL Server, PostgreSQL, Oracle DB, InfluxDB, Grafana, Icinga2, L2TP, IPSec, Radius, VLAN, git, Atlassian(JIRA, Confluence, BitBucket)</td>
+								<td>Xen server, XenOrchestra, Docker, Kubernetes, Helm, iptables, DHCP, IIS, .NET, netCore, Active Directory, DNS, GPO, Apache2, Asterisk, MySQL, MS SQL Server, PostgreSQL, Oracle DB, InfluxDB, Grafana, Icinga2, L2TP, IPSec, Radius, VLAN, git, Atlassian(JIRA, Confluence, BitBucket)</td>
 							</tr>
 							<tr>
 								<td><b>Cloud</b></td>

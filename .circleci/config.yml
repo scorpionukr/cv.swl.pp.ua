@@ -1,0 +1,23 @@
+version: 2.1
+
+workflows:
+  deploy:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              only: master
+
+jobs:
+  deploy:
+    machine:
+      enabled: true
+    resource_class: medium
+    steps:
+      - run:
+          name: Install sshpass
+          command: sudo apt-get install sshpass
+      - run:
+          name: Deploy Over SSH
+          command: |
+            sshpass -p $SSH_PASSWORD ssh -o StrictHostKeyChecking=no -p $SSH_PORT $SSH_USER@$SSH_HOST "cd /var/www/cv.swl.pp.ua && git pull origin master"

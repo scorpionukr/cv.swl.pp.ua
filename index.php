@@ -4,7 +4,7 @@
 	<title>Bogachev Vitaliy CV</title>
 	<meta charset="utf-8">
     <meta name="description" content="CV Bogachev Vitaliy">
-    <meta name="keywords" content="CV, resume, cv, Resume, RESUME, Bogahev, Bogachov, Bohachov">
+    <meta name="keywords" content="CV, resume, cv, Resume, RESUME, Bogachev, Bogachov, Bohachov">
     <meta name="author" content="Scorpion">
 	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="css/main.css" />
@@ -66,7 +66,7 @@
 				</div>
 				<div class="column">
 					<h1 class="ui header yellow">Bogachev Vitaliy</h1>
-					<h2 class="ui header yellow">Senior System Administrator</h2>
+					<h2 class="ui header yellow">Tech Lead / Senior System Administrator</h2>
 					<a href="https://www.linkedin.com/in/lordsith/" target="_blank"><i class="big linkedin icon blue"></i></a>
 					<a href="https://github.com/scorpionukr" target="_blank"><i class="big github icon blue"></i></a>
 					<a href="https://www.instagram.com/darth.scorpion/" target="_blank"><i class="big instagram icon blue"></i></a>

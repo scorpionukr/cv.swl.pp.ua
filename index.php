@@ -810,7 +810,7 @@
 		<div class="ui grid three column pad-30">
 			<div class="row">
 				<div class="column">
-					<p class="copyr">Coded and Designed by SWL &copy; 2016-2019.</p>
+					<p class="copyr">Coded and Designed by Black Sun Solutions &copy; 2016-2022.</p>
 				</div>
 				<div class="column">
 				</div>

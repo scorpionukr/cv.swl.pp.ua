@@ -12,7 +12,7 @@ jobs:
       - run:
           name: Deploy Over SSH
           command: |
-            sshpass -p \"$SSH_PASSWORD\" ssh $SSH_USER@$SSH_HOST -p 10001 "cd /var/www/cv.swl.pp.ua && git pull origin master"
+            sshpass -p \"$SSH_PASSWORD\" ssh -p 10001 -l $SSH_USER $SSH_HOST "cd /var/www/cv.swl.pp.ua && git pull origin master"
 
 workflows:
   deploy:

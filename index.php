@@ -148,6 +148,10 @@
 								<td><b>Cloud</b></td>
 								<td>MS Azure, AWS, Alibaba Cloud</td>
 							</tr>
+							<tr>
+								<td><b>VOIP</b></td>
+								<td>FreePBX</td>
+							</tr>
 						</tbody>
 					</table>
 					<button class="ui inverted blue button" onclick="showHide('devart-techlead-table');">More</button><br />

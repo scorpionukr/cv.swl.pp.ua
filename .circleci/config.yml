@@ -5,11 +5,10 @@ jobs:
     machine:
       enabled: true
     resource_class: medium
-    pre-steps: # steps to run before steps defined in the job bar
+    steps:
       - run:
           name: Install sshpass
           command: sudo apt-get update; sudo apt-get install sshpass
-    steps:
       - run:
           name: Deploy Over SSH
           command: |

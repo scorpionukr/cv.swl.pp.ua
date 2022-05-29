@@ -560,7 +560,7 @@
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="//www.domtele.com/ru" target="_blank">
+					<a href="//www.datagroup.ua/b2c" target="_blank">
 						<img src="img/ipsystems-logo.png" class="ui small circular middle aligned image company-logo" alt="" />
 					</a>
 				</div>
@@ -677,7 +677,7 @@
 		<div class="ui two column grid center aligned container">
 			<div class="column w-200">
 				<div class="ui alig-rig">
-					<a href="//www.domtele.com/ru" target="_blank">
+					<a href="//www.datagroup.ua/b2c" target="_blank">
 						<img src="img/ipsystems-logo.png" class="ui small circular middle aligned image company-logo" alt="" />
 					</a>
 				</div>

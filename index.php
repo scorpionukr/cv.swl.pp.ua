@@ -103,11 +103,15 @@
 					<br />
 					<b>Responsibility:</b>
 					<ul class="ui list">
-						<li>Configuration and optimization servers based on Windows Server & Linux</li>
-						<li>Working with Docker containers</li>
+						<li>Development of server architectures</li>
+						<li>Сontrol over the fulfillment of requirements</li>
+						<li>Advising employees on server and network technology issues</li>
+						<li>Configuration and optimization servers based on Linux & Windows Server</li>
+						<li>Working with Kubernetes, Docker</li>
 						<li>Configuring and support web servers and databases</li>
 						<li>Configuration backups</li>
 						<li>Configuring tunnels for remote client servers</li>
+						<li>Administration Azure Cloud (VM, DB, LoadBalancer, VNET)</li>
 						<li>Xen server virtualization</li>
 						<li>Setting the company's internal LAN and WiFi</li>
 						<li>Support for employees</li>
@@ -138,7 +142,7 @@
 							</tr>
 							<tr>
 								<td><b>Software</b></td>
-								<td>Xen server, XenOrchestra, Docker, iptables, DHCP, IIS, .NET, Active Directory, DNS, GPO, Apache2, Asterisk, MySQL, MS SQL Server, PostgreSQL, Oracle DB, InfluxDB, Telegraf, Grafana, Icinga2, L2TP, IPSec, Radius, VLAN, git, Atlassian(JIRA, Confluence, BitBucket)</td>
+								<td>Xen server, XenOrchestra, Docker, Kubernetes, iptables, DHCP, IIS, .NET, netCore, Active Directory, DNS, GPO, Apache2, Asterisk, MySQL, MS SQL Server, PostgreSQL, Oracle DB, InfluxDB, Grafana, Icinga2, L2TP, IPSec, Radius, VLAN, git, Atlassian(JIRA, Confluence, BitBucket)</td>
 							</tr>
 							<tr>
 								<td><b>Cloud</b></td>

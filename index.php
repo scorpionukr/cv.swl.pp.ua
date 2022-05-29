@@ -146,7 +146,8 @@
 							</tr>
 						</tbody>
 					</table>
-					<button class="ui inverted blue button" onclick="showHide('devart-techlead-table');">More</button>
+					<button class="ui inverted blue button" onclick="showHide('devart-techlead-table');">More</button><br />
+					<br />
 					<b>Senior System Administrator / DevOps</b><br />
 					October 2018 – ...<br />
 					Kharkiv, Ukraine<br />

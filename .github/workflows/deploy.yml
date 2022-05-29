@@ -1,0 +1,19 @@
+name: CI
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+
+jobs:
+  deploy-site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install sshpass
+        run: |
+          sudo apt-get update; sudo apt-get install sshpass
+
+      - name: Deploy Over SSH
+        run: |
+          export SSHPASS='$SSH_PASSWORD'
+          sshpass -e ssh -o StrictHostKeyChecking=no -p 10001 scorpion@node0.black-sun.pp.ua "cd /var/www/cv.swl.pp.ua && git pull origin master"

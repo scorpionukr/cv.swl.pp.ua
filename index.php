@@ -97,6 +97,56 @@
 			<div class="column left aligned">
 				<div class="ui blue message">
 					<h3 class="ui header">Devart</h3>
+					<b>Tech Lead</b><br />
+					April 2021 – ...<br />
+					Kharkiv, Ukraine<br />
+					<br />
+					<b>Responsibility:</b>
+					<ul class="ui list">
+						<li>Configuration and optimization servers based on Windows Server & Linux</li>
+						<li>Working with Docker containers</li>
+						<li>Configuring and support web servers and databases</li>
+						<li>Configuration backups</li>
+						<li>Configuring tunnels for remote client servers</li>
+						<li>Xen server virtualization</li>
+						<li>Setting the company's internal LAN and WiFi</li>
+						<li>Support for employees</li>
+					</ul>
+					<table class="ui blue table disp-none" id="devart-techlead-table">
+						<thead>
+							<tr>
+								<th></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>OS</b></td>
+								<td>
+									Linux: CentOS, Ubuntu;<br />
+									Windows Server: 2019, 2016, 2012;<br />
+									Windows Desktop: 10, 11;<br />
+								</td>
+							</tr>
+							<tr>
+								<td><b>Scripts</b></td>
+								<td>Bash, Shell, PowerShell, Python</td>
+							</tr>
+							<tr>
+								<td><b>Hardware</b></td>
+								<td>Mikrotik, Ubiquiti, D-Link, Supermicro, HP Proliant</td>
+							</tr>
+							<tr>
+								<td><b>Software</b></td>
+								<td>Xen server, XenOrchestra, Docker, iptables, DHCP, IIS, .NET, Active Directory, DNS, GPO, Apache2, Asterisk, MySQL, MS SQL Server, PostgreSQL, Oracle DB, InfluxDB, Telegraf, Grafana, Icinga2, L2TP, IPSec, Radius, VLAN, git, Atlassian(JIRA, Confluence, BitBucket)</td>
+							</tr>
+							<tr>
+								<td><b>Cloud</b></td>
+								<td>MS Azure, AWS, Alibaba Cloud</td>
+							</tr>
+						</tbody>
+					</table>
+					<button class="ui inverted blue button" onclick="showHide('devart-techlead-table');">More</button>
 					<b>Senior System Administrator / DevOps</b><br />
 					October 2018 – ...<br />
 					Kharkiv, Ukraine<br />

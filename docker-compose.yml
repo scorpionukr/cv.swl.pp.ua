@@ -1,0 +1,6 @@
+services:
+  cv-site:
+    image: blacksunsolutions/cv:latest
+    container_name: cv-site
+    ports:
+      - '80:80'

@@ -10,12 +10,14 @@ body {
 	margin: 0px;
 	padding-top: 200px;
 	background: url("/img/back.jpg") no-repeat;
+	background-position: center center;
 }
 .back-cert {
 	width: 100%;
 	height: 800px;
 	margin: 0px;
 	background: url("/img/back-2.png") no-repeat;
+	background-position: center center;
 }
 .mesto {
 	position: absolute;

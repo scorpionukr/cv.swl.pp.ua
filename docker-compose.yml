@@ -1,5 +1,8 @@
 services:
   cv-site:
+    build:
+      context: .
+      dockerfile: Dockerfile
     image: blacksunsolutions/cv:latest
     container_name: cv-site
     ports:
